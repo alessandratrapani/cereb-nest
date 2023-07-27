@@ -43,5 +43,7 @@ const Name joint_id( "joint_id" );
 const Name fiber_id( "fiber_id" );
 const Name fibers_per_joint( "fibers_per_joint" );
 const Name rbf_sdev( "rbf_sdev" );
+
+const Name meta_l( "meta_l" );
 }
 }
