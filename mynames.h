@@ -58,6 +58,8 @@ extern const Name joint_id;
 extern const Name fiber_id;
 extern const Name fibers_per_joint;
 extern const Name rbf_sdev;
+
+extern const Name meta_l;
 }
 }
 
